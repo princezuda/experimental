@@ -1,0 +1,6 @@
+You want to keep your body in shape, keep it flexible, fast, and not overweight. That's the entire goal of PlanetWord.
+PlanetWord is flexible for developers, since they can modify the views of themes without ever touching the code. 
+It is flexible for the users, because it is as simple to use, yet has a lot of power in case they need it.
+It is fast, so your site loads faster for Google and doesn't get you lower in the search rankings. Please note that speed loading varies server to server, but even on the worst server we should load faster than WP. 
+It is also good to note that our goal is to help the users do their tasks quickly and for the developers to do their tasks quickly.
+This is all about you, not about us.  

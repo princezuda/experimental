@@ -1,0 +1,1 @@
+move admin javascript into the admin views, but keep image javascript here since blog and commerce will be calling it. 

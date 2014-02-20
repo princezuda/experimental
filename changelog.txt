@@ -1,0 +1,5 @@
+Changelog in detail:
+status_headers() $server_protocol  escaped using esc_attr. Any update to that escape is welcome.
+wp_signon updated escaped.
+deleted deprecated.php and ms-deprecated.php.
+other functions have been updated in the first commit. THe recorded changes got erased, but the functions are still updated. Will try to add all the changes into this changelog.
